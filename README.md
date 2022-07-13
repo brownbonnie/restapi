@@ -1,0 +1,1 @@
+Repo for github tutorial: https://www.baeldung.com/scala/play-rest-api
